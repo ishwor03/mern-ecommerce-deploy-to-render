@@ -76,7 +76,6 @@ function HeaderRightContent() {
     // --- code for localhost
     // dispatch(logoutUser());
     
-    
     //code for deployment
     dispatch(resetTokenAndCredentials());
     sessionStorage.clear();
